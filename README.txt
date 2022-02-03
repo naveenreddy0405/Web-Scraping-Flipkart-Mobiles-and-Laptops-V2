@@ -1,0 +1,1 @@
+requirement for the use case : Install bs4,CSV,pandas,numpy,seaborn,matplotlib,plotly.graph_objects
